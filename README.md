@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on UI/UX designer
 - 📫 How to reach me
-- Email:balasilpa@gmail.com
+- Email:balasilpauppatala@gmail.com
 
 
 <!---

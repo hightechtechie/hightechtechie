@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bala silpa
 - 👀 I’m interested in interesting things
 - 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on UI/UX designer
+- 💞️ I’m looking to collaborate on UI/UX designing
 - 📫 How to reach me
 - Email:balasilpauppatala@gmail.com
 
